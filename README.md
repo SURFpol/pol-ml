@@ -7,7 +7,7 @@ Documents and videos available within the Open Leermaterialen project. Approxima
 Extraction of raw texts from documents as input for TF-IDF. Collection of video-annotations as TF-IDF input.
 
 # Image Recognition
-Convolutional Neural Network, VGG16, transfer learning. 50% accuracy.
+Convolutional Neural Network, VGG16, transfer learning. Experiments result in 50% accuracy for document classification.
 
 # Classifying Text
-TF-IDF, Logistic Regression. 80% accuracy.
+TF-IDF, Logistic Regression. Experiments result in 80% accuracy for document classification.

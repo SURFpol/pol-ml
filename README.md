@@ -7,7 +7,7 @@ The dataset which was used during the experiments consists of documents and vide
 The experiments focused on automatic classfication based on the type of content (Lesson, Assignment, Reference, Test). During preprocessing, all documents are converted to PDF. This enables us to automatically generate images based on each page of the documents, which are suitable as CNN input. Moreover, extraction of raw text from documents, which serve as input for TF-IDF, is also possible. For each video in the dataset several frames are captured, which can be used as CNN input. If a video contains annotations, these are extracted to be used as TF-IDF input.
 
 # Image Recognition
-Convolutional Neural Network, VGG16, transfer learning.
+Convolutional Neural Networks (CNNs) are a type of neural network which is particularly effective in classification and pattern recognition. In this experimental setup, the widely-used VGG16 network is used as a base. By making use of transfer learning we train our own part of the CNN on Open Leermaterialen-data.
 
 # Classifying Text
-TF-IDF, Logistic Regression.
+The raw texts which are extracted from documents and video annotations can be vectorized using the Term Frequency - Inverse Document Frequency (TF-IDF) method. After vectorization, we run a Logistic Regression model to classify texts.

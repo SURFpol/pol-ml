@@ -1,5 +1,5 @@
 # Project Open Leermaterialen - Machine Learning
-Experiments related to the study investigating the generation of machine-learning based metadata. Please note that all the code in this repository is experimental and not yet suitable for implementation. SURF does not warrant nor support this code. Further details are available in the accompanying report, available on the SURFpol Wiki.
+Experiments related to the study investigating the generation of machine-learning based metadata. Please note that all the code in this repository is experimental and not yet suitable for implementation. SURF does not provide support for this code. Further details are available in the accompanying report, available on the SURFpol Wiki.
 
 # Data and Preprocessing
 The dataset which was used during the experiments consists of documents and video which are available within the Open Leermaterialen project and other sources (WikiWijs, Leraar24, HBO-Verpleegkunde). This results in a dataset which includes approximately 850 documents and 255 videos. 

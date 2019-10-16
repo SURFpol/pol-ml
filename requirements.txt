@@ -11,7 +11,7 @@ seaborn==0.9.0
 scipy==1.2.1
 more-itertools==7.0.0
 stop-words==2018.7.23
-nltk==3.4.1
+nltk==3.4.5
 textract==1.6.1
 PyPDF2==1.26.0
 PyPDF4==1.27.0
